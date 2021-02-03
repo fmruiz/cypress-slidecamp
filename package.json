@@ -1,0 +1,13 @@
+{
+  "name": "slidecamp",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:verify": "cypress verify",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:firefox": "cypress run --browser firefox"
+  },
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
+}
